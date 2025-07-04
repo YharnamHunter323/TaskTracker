@@ -13,8 +13,8 @@ A simple command-line task manager that helps you track todo, in-progress, and d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
-   cd task-tracker
+   git clone https://github.com/YharnamHunter323/TaskTracker
+   cd TaskTracker
    ```
 2. Ensure Python 3.x is installed
 
