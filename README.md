@@ -1,6 +1,8 @@
 # Task Tracker CLI
 
-A simple command-line task manager that helps you track todo, in-progress, and done tasks. https://roadmap.sh/projects/task-tracker
+A simple command-line task manager that helps you track todo, in-progress, and done tasks.
+
+https://roadmap.sh/projects/task-tracker
 
 ## Features
 
